@@ -1,0 +1,14 @@
+{
+  "name": "htc-angular-student",
+  "version": "1.0.0",
+  "description": "A repository for students taking the Angular Hy-Tech Club course",
+  "scripts": {
+    "start": "nodemon -e html,js server.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "compression": "^1.7.3",
+    "express": "^4.16.3",
+    "nodemon": "^1.18.4"
+  }
+}

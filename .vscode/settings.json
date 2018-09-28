@@ -1,0 +1,10 @@
+{
+    "files.exclude": {
+        "node_modules": true,
+        "server.js": true,
+        ".npmrc": true,
+        "package-lock.json": true
+        ".vscode": true,
+        ".gitignore": true
+    }
+}
